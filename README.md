@@ -1,4 +1,4 @@
-YouTube Data Harvesting and Warehousing
+*YouTube Data Harvesting and Warehousing*
 Description
 This is a Streamlit-based application for collecting, storing, and analyzing YouTube data using YouTube API. The collected data is stored in MongoDB and later migrated to PostgreSQL for further analysis.
 
